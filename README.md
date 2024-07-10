@@ -1,4 +1,4 @@
-](https://github.com/Mkb8919/Mkb8919/assets/154704641/cbb075c6-1fc0-4aec-a612-6c2dfe4550d1)
+
 <h1 align="center">Hi 👋, I'm Mohit Bhatia</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 - 💬 Ask me about **android, java**
