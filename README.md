@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Bhatia</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src=https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 - 💬 Ask me about **android, java**
 
 - 📫 How to reach me **mohitbhatia659@gmail.com**
