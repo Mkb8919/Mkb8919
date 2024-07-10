@@ -1,6 +1,8 @@
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-6vGvy4vCcvE%2FXdcwnaf7XzI%2FAAAAAAAANZM%2FIo2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ%2Fs1600%2Fimage1.gif&f=1&nofb=1&ipt=c003006ff12e91502ff4aea3d2b104264de74a1a2b90a503d02e882d2883d07b&ipo=images)
 
 <h1 align="center">Hi 👋, I'm Mohit Bhatia</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<img align="right" alt="Coding" width="400" src=https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195
 - 💬 Ask me about **android, java**
 
 - 📫 How to reach me **mohitbhatia659@gmail.com**
