@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkb8919&label=Profile%20views&color=0e75b6&style=flat" alt="mkb8919" /> </p>
 
+<p align="left"> <a href="https://twitter.com/mohitbhati65803" target="blank"><img src="https://img.shields.io/twitter/follow/mohitbhati65803?logo=twitter&style=for-the-badge" alt="mohitbhati65803" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mkb8919](https://github.com/Mkb8919)
+
 - 💬 Ask me about **android, java**
 
 - 📫 How to reach me **mohitbhatia659@gmail.com**
